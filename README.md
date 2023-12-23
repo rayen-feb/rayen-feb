@@ -34,7 +34,7 @@ to creating softwares.
 
 
 
-- 💼 any freelance work? do reach, [email](mailto:arayen138@gmail.com) <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+- 💼 any freelance work? do reach, [email](mailto:arayen138@gmail.com) <a href="mailto:matyo91@gmail.com"><img  height="40"src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   
 - 💬 ask me about anything, i am happy to help;
 
