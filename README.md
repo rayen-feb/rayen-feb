@@ -28,7 +28,7 @@ width="500" height="320" />
  ⚡ I'm always looking for new challenges and opportunities to further expand my skills and contribute  to exciting projects. Feel free to reach out!
  
  # 📫 How to reach me: 
- - 𝕏   @RayenBouaz71944  
+ - 𝕏  @RayenBouaz71944  
  - ⓕ  https://www.facebook.com/rayen.bouazizi.79 
 
 # keep working
