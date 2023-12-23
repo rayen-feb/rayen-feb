@@ -33,7 +33,7 @@ width="500" height="320" />
  
  
  # 📫 How to reach me: 
- - 𝕏   (@RayenBouaz71944)  
+ - 𝕏   @RayenBouaz71944)  
  - ⓕ  (@rayen.bouazizi.79 )
 
 # keep working
