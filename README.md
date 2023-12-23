@@ -42,8 +42,8 @@ width="500" height="320" />
  ## 📑Resume 
  
  ## 📫 How to reach me: 
- - 𝕏  [twitter](https://twitter.com/RayenBouaz71944);  
- - ⓕ [facebook](https://www.facebook.com/rayen.bouazizi.79/)
+ - 𝕏 [twitter](https://twitter.com/RayenBouaz71944);  
+ - ⓕ[facebook](https://www.facebook.com/rayen.bouazizi.79/)
 
 #  📈 my github stats
 
