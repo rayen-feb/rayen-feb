@@ -34,8 +34,8 @@ width="500" height="320" />
  
  
  # 📫 How to reach me: 
- - 𝕏  [twitter profile ] (https://twitter.com/RayenBouaz71944);  
- - ⓕ [facebook profile ] (https://www.facebook.com/rayen.bouazizi.79/)
+ - 𝕏  [twitter account ](https://twitter.com/RayenBouaz71944);  
+ - ⓕ [facebook account ](https://www.facebook.com/rayen.bouazizi.79/)
 
 # keep working
 
