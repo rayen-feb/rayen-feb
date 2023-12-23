@@ -18,7 +18,8 @@ to creating softwares.
 
 - ☑️I've also developed a financial auditing software that aids companies in streamlining their auditing processes.
 
-  - 💼 any freelance work? do reach, [email](mailto:arayen138@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:arayen138@gmail.com) :)
+  
 - 💬 ask me about anything, i am happy to help;
 
 - 
