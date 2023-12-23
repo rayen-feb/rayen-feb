@@ -1,10 +1,4 @@
-<p align="center">
-    <img src="/art/socialcard.png" width="1280" title="Social Card Laravel GitHub Profile View Counter">
-    <p align="center">
-        <a href="https://packagist.org/packages/caneco/laravel-github-profile-view-counter"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/caneco/laravel-github-profile-view-counter"></a>
-        <a href="https://packagist.org/packages/caneco/laravel-github-profile-view-counter"><img alt="License" src="https://img.shields.io/packagist/l/caneco/laravel-github-profile-view-counter"></a>
-    </p>
-</p>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E71919&center=true&vCenter=true&random=false&width=435&height=100&lines=%F0%9F%98%8E+Hey+!+nice+to+see+you+;%F0%9F%98%84+I+am+Rayen+;%F0%9F%98%89welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </div>
