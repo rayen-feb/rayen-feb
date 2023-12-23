@@ -1,6 +1,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E71919&center=true&vCenter=true&random=false&width=435&height=100&lines=%F0%9F%98%8E+Hey!+Nice+to+see+you.;I+am++rayen+" alt="Typing SVG" /></a>
 <div align="right">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E71919&center=true&vCenter=true&random=false&width=435&height=100&lines=welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+
+
+  
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
