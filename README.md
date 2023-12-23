@@ -14,11 +14,6 @@
  
 - 💎i am also an open-source enthusiast and maintainer. i learned a  ot from the open-source ommunity and i love how collaboration and knowledge sharing happened through open-source.
  
- <div align="center"> <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /></div>
-
-
-
-
 - 🌐 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, Python, Java, and HTML.
 
 - 😄 I love to build and create. My portfolio includes a diverse set of projects, from developing PC games in c language using sdl  
