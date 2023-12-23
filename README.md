@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E71616&center=true&random=false&width=435&lines=The+only+thing+we+have++to+fear+;++++++++is+fear+itself." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E71919&center=true&random=false&width=435&lines=%23+Hello%2C+World!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 # Hello, I'm   Ahmed Rayen! 👋
 
 
