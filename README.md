@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E71919&center=true&vCenter=true&random=false&width=435&height=100&lines=%F0%9F%98%8E+Hey!+Nice+to+see+you." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E71919&center=true&vCenter=true&random=false&width=435&height=100&lines=%F0%9F%98%8E+Hey!+Nice+to+see+you.;I+am++rayen+" alt="Typing SVG" /></a>
 
 # Hello, I'm   Ahmed Rayen! 👋
 
