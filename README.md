@@ -34,9 +34,12 @@ width="500" height="320" />
  
  
  # 📫 How to reach me: 
- - 𝕏  [twitter account ](https://twitter.com/RayenBouaz71944);  
- - ⓕ [facebook account ](https://www.facebook.com/rayen.bouazizi.79/)
+ - 𝕏  [twitter](https://twitter.com/RayenBouaz71944);  
+ - ⓕ [facebook](https://www.facebook.com/rayen.bouazizi.79/)
 
 # keep working
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
