@@ -1,6 +1,3 @@
-<div align="right">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
 
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E71919&center=true&vCenter=true&random=false&width=435&height=100&lines=%F0%9F%98%8E+Hey+!+nice+to+see+you+;%F0%9F%98%84+I+am+Rayen+;%F0%9F%98%89welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
@@ -16,6 +13,10 @@
 - 📚 I'm currently studying Computer Science Engineering at ESPRIT University in tunisia.
   
 - ☀️ i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+- <div align="centred">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 
 - 🌐 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, Python, Java, and HTML.
 
