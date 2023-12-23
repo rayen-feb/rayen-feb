@@ -30,6 +30,8 @@ to creating softwares.
 - 💼 any freelance work? do reach, [email](mailto:arayen138@gmail.com)        <a href="mailto:arayen138@gmail.com@gmail.com"><img  height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   
 - 💬 ask me about anything, i am happy to help;
+-  <div align="center"> <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /></div>
+
 
 
  
@@ -44,13 +46,8 @@ to creating softwares.
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
- <div align="center"> <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /></div>
 
  ## 📑Resume 
-
-
-
-
 
 
  ## 📫 How to reach me: 
