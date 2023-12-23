@@ -17,19 +17,24 @@ to creating softwares.
 - ⚡ I'm always looking for new challenges and opportunities to further expand my skills and contribute  to exciting projects. Feel free to reach out!
 
 - ☑️I've also developed a financial auditing software that aids companies in streamlining their auditing processes.
+
+  - 💼 any freelance work? do reach, [email](mailto:arayen138@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
 - 
 <img align="right" alt="GIF" 
 src="https://github.com/rayen-feb/rayen-feb/assets/131598929/3f1ca225-abb3-4978-aa4a-a3edb85fc65c"
 width="500" height="320" />
 
 
- # 📑Resume 
 
- ⚡ I'm always looking for new challenges and opportunities to further expand my skills and contribute  to exciting projects. Feel free to reach out!
+ ## 📑Resume 
+
+ 
  
  # 📫 How to reach me: 
- - 𝕏   @RayenBouaz71944  
- - ⓕ  @rayen.bouazizi.79 
+ - 𝕏   [twitter](@RayenBouaz71944)  
+ - ⓕ  [facebook](@rayen.bouazizi.79 )
 
 # keep working
 
