@@ -11,12 +11,16 @@
 - 🚀 Hi  i am  [ahmed rayen](https://www.facebook.com/rayen.bouazizi.79/) a passionate self-taught  developer and a freelance software  from tunisia  🇹🇳 , my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 📚 I'm currently studying Computer Science Engineering at ESPRIT University in tunisia.
-  
-- ☀️ i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-<div align="center">
+  <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
+- ☀️ i am also an open-source enthusiast and
+-  maintainer. i learned a
+    lot from the open-source
+    community and i love how
+   collaboration and knowledge sharing happened through open-source.
+
+
 
 
 - 🌐 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, Python, Java, and HTML.
