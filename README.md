@@ -24,7 +24,7 @@ to creating softwares.
 
 <img align="right" alt="GIF" 
 src="https://github.com/rayen-feb/rayen-feb/assets/131598929/3f1ca225-abb3-4978-aa4a-a3edb85fc65c"
-width="400" height="220" />
+width="500" height="320" />
 
 
  ## 🧰 Languages and tools
