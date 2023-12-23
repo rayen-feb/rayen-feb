@@ -33,8 +33,8 @@ width="500" height="320" />
  
  
  # 📫 How to reach me: 
- - 𝕏   [twitter](@RayenBouaz71944)  
- - ⓕ  [facebook](@rayen.bouazizi.79 )
+ - 𝕏   (@RayenBouaz71944)  
+ - ⓕ  (@rayen.bouazizi.79 )
 
 # keep working
 
