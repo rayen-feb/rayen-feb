@@ -1,5 +1,6 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E71616&center=true&random=false&width=435&lines=The+only+thing+we+have++to+fear+;++++++++is+fear+itself." alt="Typing SVG" /></a>
 # Hello, I'm   Ahmed Rayen! 👋
+
 
 - 🚀 Hi  i am  [ahmed rayen](https://www.facebook.com/rayen.bouazizi.79/) a passionate self-taught  developer and a freelance software  from tunisia  🇹🇳 , my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
