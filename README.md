@@ -47,16 +47,15 @@ to creating softwares.
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
- ## 📑Resume 
+ ## 🔰Resume 
 
 
- ## 📫 How to reach me: 
+ ## 📫How to reach me: 
  
  - <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/rayen.feb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @rayen.feb</a><br/>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/rayen-feb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/RayenBouaz71944" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="(https://www.facebook.com/rayen.bouazizi.79/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a  
-                                                                                                                                                                                                                                                           
-</p>
+                                                                                                                                                                                                                                          </p>
 
 #  📈 my github stats
 
