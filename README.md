@@ -25,9 +25,7 @@
 to creating softwares.
 
 - ✔️ One of my notable projects is a task management software based on the Pomodoro Technique.
-<img align="right" alt="GIF" 
-src="https://github.com/rayen-feb/rayen-feb/assets/131598929/3f1ca225-abb3-4978-aa4a-a3edb85fc65c"
-width="400" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/rayen-feb/rayen-feb/assets/131598929/3f1ca225-abb3-4978-aa4a-a3edb85fc65c" width="400" height="300" />
 - ⚡ I'm always looking for new challenges and opportunities to further expand my skills and contribute  to exciting projects. Feel free to reach out!
 
 - ☑️I've also developed a financial auditing software that aids companies in streamlining their auditing processes.
