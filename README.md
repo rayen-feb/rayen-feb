@@ -60,14 +60,17 @@ to creating softwares.
                                                                                                                                                                                                                                           </p>
 
 #  📈 my github stats
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://github.com/rayen-feb/rayen-feb/assets/131598929/4f42b2b1-fa46-47e9-9db3-34e4f570b5d0" width="1200" height="500"/></a>
-</div>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 # Todoist Stats
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://github.com/rayen-feb/rayen-feb/assets/131598929/4f42b2b1-fa46-47e9-9db3-34e4f570b5d0" width="1200" height="500"/></a>
+</div>
+
 TODO-IST:START 
 TODO-IST:END
 
