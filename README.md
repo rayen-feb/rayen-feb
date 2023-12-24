@@ -68,9 +68,8 @@ to creating softwares.
 # Todoist Stats
 <div align="center">
 <a href="http://www.w3.org/2000/svg""><img src="http://www.w3.org/2000/svg" /></a>
-<details>
-<summary>More</summary>
 
-![metrics](github-metrics.svg)
-</details>
+
+![metrics](metrics.plugin.isocalendar.fullyear.svg)
+
 
