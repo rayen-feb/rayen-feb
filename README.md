@@ -51,6 +51,8 @@ to creating softwares.
 
 
  ## 🔰Resume 
+ ![metrics](metrics.classic.svg)
+
 
 
  ## 📫How to reach me: 
@@ -67,11 +69,12 @@ to creating softwares.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
  
 
-# Todoist Stats
-<div align="center">
-<a href="http://www.w3.org/2000/svg""><img src="http://www.w3.org/2000/svg" /></a>
+# Todoist Stat
+
 
 
 ![metrics](metrics.plugin.isocalendar.fullyear.svg)
+
+
 
 
