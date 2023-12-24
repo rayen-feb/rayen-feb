@@ -40,9 +40,7 @@ to creating softwares.
  
  ## 🧰 Languages and tools
  
-</p>
-<h3 align="left">Languages and Tools:</h3>
- <p align="left"> 
+
 
    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://amiga.gr/sites/default/files/field/image/qt_bibliothek_logo.svg_.png" alt="QT" width="40" height="40"/></a>
