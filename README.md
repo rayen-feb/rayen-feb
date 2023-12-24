@@ -1,7 +1,5 @@
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://github.com/rayen-feb/rayen-feb/assets/131598929/4f42b2b1-fa46-47e9-9db3-34e4f570b5d0" width="1200" height="500"/></a>
-</div>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7241F&center=true&random=false&width=500&height=100&lines=+%F0%9F%98%8EHey+nice+to+see+you+;I+am+rayen+;++%F0%9F%A4%96++Welcome+;to+my+GitHub+profile+" alt="Typing SVG" /></a>
 </div>
@@ -62,6 +60,9 @@ to creating softwares.
                                                                                                                                                                                                                                           </p>
 
 #  📈 my github stats
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://github.com/rayen-feb/rayen-feb/assets/131598929/4f42b2b1-fa46-47e9-9db3-34e4f570b5d0" width="1200" height="500"/></a>
+</div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
