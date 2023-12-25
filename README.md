@@ -79,8 +79,6 @@ to creating softwares.
 
 # Todoist Stat
 
-
-
 ![metrics](metrics.plugin.isocalendar.fullyear.svg)
 
 
