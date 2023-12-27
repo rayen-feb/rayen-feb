@@ -17,12 +17,12 @@
  
 - 🗃️ i am also an open-source enthusiast and maintainer. i learned a  ot from the open-source ommunity and i love how collaboration and knowledge sharing happened through open-source.
  
-- 🛸 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, Python, Java, and HTML.
+- 🛸 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, Pythonand HTML.
 
-- 😄 I love to build and create. My portfolio includes a diverse set of projects, from developing PC games in c language using sdl  
+- 😄 I love to build and create. My portfolio includes a diverse set of projects, from developing PC games in c and c++ language  
 to creating softwares.
 
-- ✔️ One of my notable projects is a task management software based on the Pomodoro Technique.
+- ✔️ One of my notable projects is a task management software based on the Pomodoro Technique .
 
 - ⚡ I'm always looking for new challenges and opportunities to further expand my skills and contribute  to exciting projects. Feel free to reach out!
 
