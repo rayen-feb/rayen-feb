@@ -13,20 +13,16 @@
 
 - 🚀 Hi  i am  [ahmed rayen](https://www.facebook.com/rayen.bouazizi.79/) a passionate self-taught  developer and a freelance software  from tunisia  🇹🇳 , my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-- 📚 I'm currently studying Computer Science Engineering at ESPRIT University in tunisia.
+- 📚 I'm currently studying Data Science Engineering at ESPRIT University in tunisia.
  
 - 🗃️ i am also an open-source enthusiast and maintainer. i learned a  ot from the open-source ommunity and i love how collaboration and knowledge sharing happened through open-source.
  
-- 🛸 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, Pythonand HTML.
+- 🛸 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, java , JS , php , nodjs ,css , TS  ,HTML and  Python.
 
 - 😄 I love to build and create. My portfolio includes a diverse set of projects, from developing PC games in c and c++ language  
-to creating softwares.
-
-- ✔️ One of my notable projects is a task management software based on the Pomodoro Technique .
+to creating softwares..
 
 - ⚡ I'm always looking for new challenges and opportunities to further expand my skills and contribute  to exciting projects. Feel free to reach out!
-
-- 🌏I've also developed a financial auditing software that aids companies in streamlining their auditing processes.
   
  <img align="right" alt="GIF" src="https://github.com/rayen-feb/rayen-feb/assets/131598929/3f1ca225-abb3-4978-aa4a-a3edb85fc65c" width="400" height="300" />
 
