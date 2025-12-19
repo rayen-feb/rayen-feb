@@ -75,13 +75,6 @@ Welcome to my GitHub! I’m a passionate **Data Science Engineering student at E
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayen-feb)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rayen_feb)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=default)
 
@@ -99,10 +92,6 @@ Let’s build great things together!
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=default)
-
 ---
 
 ⭐ Thanks for visiting my GitHub — **feel free to explore my repositories!**
@@ -117,12 +106,6 @@ Let’s build great things together!
 <p><a href="https://github.com/rayen-feb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/RayenBouaz71944" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="(https://www.facebook.com/rayen.bouazizi.79/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a  
                                                                                                                                                                                                                                           </p>
 
-#  📈 my github stats
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
- 
 
 # Todoist Stat
 
