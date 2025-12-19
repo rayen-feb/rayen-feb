@@ -6,52 +6,78 @@
 
 
 
+# 👋 Hello, I’m **Ahmed Rayen**
+### 🎓 Final-year Data Science Engineering Student | Aspiring Data Scientist
 
+Welcome to my GitHub! I’m a passionate **Data Science Engineering student at ESPRIT University** in Tunisia, currently in my 4th year of study. I love working with data, solving real-world problems, and building projects that combine analytics, machine learning, and software development.
 
-# Hello, I'm   Ahmed Rayen! 👋
+---
 
+## 🌱 About Me
+- 📍 Based in **Tunisia**
+- 🎓 Studying **Data Science Engineering**
+- 🔍 Interested in **Machine Learning, Data Analysis, Data Visualization, and AI**
+- 💡 I enjoy turning data into insights and building tools that make information actionable
+- 🤝 I’m open to collaboration, internships, and mentorship opportunities
 
-- 🚀 Hi  i am  [ahmed rayen](https://www.facebook.com/rayen.bouazizi.79/) a passionate self-taught  developer and a freelance software  from tunisia  🇹🇳 , my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+---
 
-- 📚 I'm currently studying Data Science Engineering at ESPRIT University in tunisia.
- 
-- 🗃️ i am also an open-source enthusiast and maintainer. i learned a  ot from the open-source ommunity and i love how collaboration and knowledge sharing happened through open-source.
- 
-- 🛸 I have a strong interest  in programming and have gained proficiency in several languages including C, C++, C#, java , JS , php , nodjs ,css , TS  ,HTML and  Python.
+## 🛠 Skills & Tools
 
-- 😄 I love to build and create. My portfolio includes a diverse set of projects, from developing PC games in c and c++ language  
-to creating softwares..
+### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- ⚡ I'm always looking for new challenges and opportunities to further expand my skills and contribute  to exciting projects. Feel free to reach out!
-  
- <img align="right" alt="GIF" src="https://github.com/rayen-feb/rayen-feb/assets/131598929/3f1ca225-abb3-4978-aa4a-a3edb85fc65c" width="400" height="300" />
+### 🔹 Data Science & ML
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
 
-- 💼 any freelance work? do reach, [email](mailto:arayen138@gmail.com)        <a href="mailto:arayen138@gmail.com@gmail.com"><img  height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  
-- 💬 ask me about anything, i am happy to help;
-               <div align="left"> <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /></div>
+### 🔹 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
 
+## 📌 What I’m Working On
+Here are some of the projects you can explore here on my GitHub:
 
- 
- ## 🧰 Languages and tools
-   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://amiga.gr/sites/default/files/field/image/qt_bibliothek_logo.svg_.png" alt="QT" width="40" height="40"/></a>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="40" height="40"/> </a>
- <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/></a>
- </p>
-<br> 
+- **Data Analysis Projects** — Data cleaning, visual exploration, and reporting
+- **Machine Learning Models** — Classification, regression, and model evaluation
+- **Software & Games** — C++ applications and interactive game projects
+- **Portfolio & Learning Repos** — Coursework and personal experiments
+
+> You can find pinned projects below 👇
+
+---
+
+## 📫 Connect With Me
+Let’s build great things together!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayen-feb)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rayen_feb)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=default)
+
+---
+
+⭐ Thanks for visiting my GitHub — **feel free to explore my repositories!**
 
  ## 🔰Resume 
 
