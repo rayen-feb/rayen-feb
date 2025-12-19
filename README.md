@@ -107,10 +107,7 @@ Let’s build great things together!
 
 ⭐ Thanks for visiting my GitHub — **feel free to explore my repositories!**
 
- ## 🔰Resume 
-
- ![metrics](metrics.classic.svg)
-
+ 
 
 
  ## 📫How to reach me: 
