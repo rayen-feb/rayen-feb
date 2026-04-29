@@ -2,18 +2,18 @@
 
 
 # 👋 Hello, I’m **Ahmed Rayen**
-### 🎓 Final-year Data Science Engineering Student | Aspiring Data Scientist & Developer
+###  Final-year Data Science Engineering Student | Aspiring Data Scientist & Developer
 
 Welcome to my GitHub! I’m a passionate **Data Science Engineering student at ESPRIT University** in Tunisia, currently in my 4th year of study. I enjoy working with data, building ML models, analyzing insights, and developing web and software applications.
 
 ---
 
-## 🌱 About Me
-- 📍 Based in **Tunisia**
-- 🎓 Studying **Data Science Engineering**
-- 🔍 Interested in **Machine Learning, Data Analysis, Data Visualization, and Web Development**
-- 💡 I enjoy turning data into actionable insights and building applications that solve real-world problems
-- 🤝 Open to collaborations, internships, and mentorship opportunities
+##  About Me
+-  Based in **Tunisia**
+-  Studying **Data Science Engineering**
+-  Interested in **Machine Learning, Data Analysis, Data Visualization, and Web Development**
+-  I enjoy turning data into actionable insights and building applications that solve real-world problems
+-  Open to collaborations, internships, and mentorship opportunities
 
 ---
 
@@ -65,7 +65,7 @@ Welcome to my GitHub! I’m a passionate **Data Science Engineering student at E
 
 ---
 
-## 📌 What I’m Working On
+##  What I’m Working On
 - **Machine Learning & Deep Learning Models** — Classification, Regression, NLP, and Image Recognition
 - **Data Analysis & Visualization Projects** — Interactive dashboards, business intelligence, and reports
 - **Web Development Projects** — Responsive websites and web applications using PHP, JavaScript, React, and Node.js
@@ -75,7 +75,7 @@ Welcome to my GitHub! I’m a passionate **Data Science Engineering student at E
 
 ---
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayen-feb&show_icons=true&theme=default)
 
 ---
